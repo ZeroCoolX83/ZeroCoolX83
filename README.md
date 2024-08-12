@@ -32,7 +32,7 @@
 
 <h2> ⌨ Coding Samples & Projects</h2>
 
-- [Write a Class That Holds Data](https://github.com/ZeroCoolX83/WriteAClassThatHoldsData)
+- [Write a Program that Creates Objects to hold Data](https://github.com/ZeroCoolX83/WriteAClassThatHoldsData)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
