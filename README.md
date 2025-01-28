@@ -16,9 +16,9 @@
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
-<h2> 💻 Web Design Projects using HTML/CSS: </h2>
+<h2> 💻 Web Design Project using HTML/CSS: </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Creating My First Website with HTML/CSS - "Harvey J's Collective"](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> ⌨ Coding Samples & Projects</h2>
