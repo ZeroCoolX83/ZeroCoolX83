@@ -18,7 +18,7 @@
 
 <h2> 💻 Web Design Project using HTML/CSS: </h2>
 
-- [Creating My First Website with HTML/CSS - "Harvey J's Collective"](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Creating My First Website with HTML/CSS - "Harvey J's Collective"](https://ZeroCoolX83.github.io/GameLevelUp)
 
 
 <h2> ⌨ Coding Samples & Projects</h2>
