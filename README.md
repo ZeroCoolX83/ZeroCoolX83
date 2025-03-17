@@ -2,18 +2,15 @@
 
 <h2>🎮 Video Game Projects:</h2>
 
-- <b> Make an RPG in a weekend using RPG Maker MV</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> Make a 2D Metroidvania in Godot 4 </b>
 
 
 <h2> 🖥 IT Technician Projects: </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 👨🏻‍💻 Cybersecurity Projects: </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 💻 Web Design Project using HTML/CSS: </h2>
@@ -27,7 +24,6 @@
 
 <h2> 📃 Certifications: </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <!--
 **ZeroCoolX83/ZeroCoolX83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
